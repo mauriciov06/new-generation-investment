@@ -1,0 +1,71 @@
+.plan-1{
+  background: #0099cc !important;
+}
+.plan-2{
+  background: #0066cc !important;
+}
+.plan-3{
+  background: #f7765d !important; 
+}
+
+.plan-1 h4, .plan-1 h6,
+.plan-2 h4, .plan-2 h6,
+.plan-3 h4, .plan-3 h6{
+  color: #fff !important;
+}
+.item-contrato .card-header-img .job-badge{
+  top: 25px;
+}
+.item-contrato .card-header-img .job-badge > .label{
+  font-weight: 600 !important;
+  font-size: 11px;
+  width: 90px;
+}
+.confirmar-pago-modal .modal-header{
+  background: #404e67;
+  color: #fff;
+}
+.confirmar-pago-modal .modal-header .close{
+  text-shadow: none;
+  color: #fff;
+  font-size: 25px;
+}
+.modaleliminar .modal-header{
+  color: #fff !important;
+  background: #cc2438 !important;
+}
+.modaleliminar  #confirmacion-eliminar{
+  color: #fff !important;
+  background: #cc2438 !important;
+  border-color: #cc2438 !important;
+}
+.l-h-13{
+  line-height: 13px !important;
+}
+.po-ri-top{
+  right: 10px !important;
+  top: 14px !important;
+}
+.time-paso-contrato .badge-paso{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  line-height: 1.5;
+  font-size: 24px;
+  position: relative;
+  z-index: 2;
+}
+.time-paso-contrato .card-block .latest-update-box:after{
+  left: 20px !important;
+}
+.time-paso-contrato .line-hei-paso h6{
+  margin-bottom: 0;
+  line-height: 2.7;
+  font-size: 15px;
+}
+.url_previw_contrato{
+  display: block;
+  text-align: center;
+  font-size: 53px;
+  padding-bottom: 15px;
+}
