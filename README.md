@@ -1,6 +1,6 @@
 ## New Generation Investment
 
-Plataforma desarrollada en Laravl 5.8, con sistema de referidos, balances, activación de planes.
+Plataforma desarrollada en Laravel 5.8, con sistema de referidos, balances, activación de planes.
 
 ## Funcionalidades
 
