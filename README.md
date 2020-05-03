@@ -4,11 +4,11 @@ Plataforma desarrollada en Laravl 5.8, con sistema de referidos, balances, activ
 
 ## Funcionalidades
 
-- Modulo de Usuarios
-- Modulo de Retiros
-- Modulo de Inversiones
-- Modulo de Referidos
-- Modulo de Firmas (Validación de documentos legales de los usuarios).
+- Módulo de Usuarios
+- Módulo de Retiros
+- Módulo de Inversiones
+- Módulo de Referidos
+- Módulo de Firmas (Validación de documentos legales de los usuarios).
 - Inicio de sesión
 - Registro de usuario
 - Restablecimiento de contraseña
